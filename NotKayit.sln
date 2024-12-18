@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hareket_25Proje6", "Hareket
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KelimeOgren_25Proje7", "KelimeOgren_25Proje7\KelimeOgren_25Proje7.csproj", "{561DBED6-7513-488B-9203-B33A23CE0ED2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NesneHareket_25Proje8", "NesneHareket_25Proje8\NesneHareket_25Proje8.csproj", "{0EADEF8F-0F70-467B-97D5-E7F9F86EB478}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{561DBED6-7513-488B-9203-B33A23CE0ED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{561DBED6-7513-488B-9203-B33A23CE0ED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{561DBED6-7513-488B-9203-B33A23CE0ED2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EADEF8F-0F70-467B-97D5-E7F9F86EB478}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EADEF8F-0F70-467B-97D5-E7F9F86EB478}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EADEF8F-0F70-467B-97D5-E7F9F86EB478}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EADEF8F-0F70-467B-97D5-E7F9F86EB478}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
